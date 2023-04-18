@@ -1,0 +1,17 @@
+{
+  "resourceServerUrl": "https://api.moneyhub.co.uk/v2.0",
+  "identityServiceUrl": "https://identity.moneyhub.co.uk",
+  "accountConnectUrl": "https://bank-chooser.moneyhub.co.uk/account-connect.js",
+  "client": {
+    "client_id": "f25c54b8-d03a-4286-a31a-ef72249645a4",
+    "client_secret": "1aa8b6f3-9c0b-47bc-804f-693e92c68aa6",
+    "token_endpoint_auth_method": "client_secret_basic",
+    "id_token_signed_response_alg": "RS256",
+    "request_object_signing_alg": "none",
+    "redirect_uri": "http://127.0.0.1",
+    "response_type": "code",
+    "keys": [
+
+    ]
+  }
+}

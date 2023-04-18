@@ -1,0 +1,16 @@
+{
+  "name": "pensions-boost-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mft/moneyhub-api-client": "^5.2.1",
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.0"
+  }
+}
